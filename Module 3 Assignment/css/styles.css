@@ -1,0 +1,40 @@
+body {
+    font-family: 'Balsamiq Sans', cursive;
+    color: black;
+}
+
+#header-nav {
+    background-color: #cccccc;
+    border: 2px solid black;
+    border-radius: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#nav-heading {
+    color: black;
+    font-weight: 700;
+    font-size: 2pc;
+    margin-top: 10px;
+}
+
+#button {
+    margin-right: 0;
+}
+
+#list > a {
+    color: black;
+}
+
+#top-heading {
+    font-weight: 800;
+}
+
+#content {
+    margin: 20px 15px ;
+}
+
+#chicken, #beef, #sushi {
+    background-color: #cccccc;
+    font-weight: 500;
+}
